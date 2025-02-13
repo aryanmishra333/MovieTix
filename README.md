@@ -1,6 +1,6 @@
 # MovieTix
 
-A full-stack MERN movie ticket booking application with secure user authentication and responsive design.
+A MERN-stack movie ticket booking application with secure user authentication and responsive design.
 
 ## Features
 
